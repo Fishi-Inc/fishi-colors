@@ -1,0 +1,103 @@
+{
+    "categorys": [
+        {
+            "name": "Dark Theme",
+            "inline": true,
+            "row": true,
+            "colors": [
+                {
+                    "name": "626268",
+                    "hex": "#626268"
+                },
+                {
+                    "name": "4A4A4E",
+                    "hex": "#4A4A4E"
+                },
+                {
+                    "name": "323235",
+                    "hex": "#323235"
+                },
+                {
+                    "name": "1A1A1C",
+                    "hex": "#1A1A1C"
+                }
+            ]
+        },
+        {
+            "name": "Dark Font",
+            "inline": true,
+            "row": true,
+            "colors": [
+                {
+                    "name": "FFFFFF",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "DAD7D7",
+                    "hex": "#DAD7D7"
+                },
+                {
+                    "name": "A8A8A8",
+                    "hex": "#A8A8A8"
+                }
+            ]
+        },
+        {
+            "name": "Light Theme",
+            "inline": true,
+            "row": true,
+            "colors": [
+                {
+                    "name": "F0F0F0",
+                    "hex": "#F0F0F0"
+                },
+                {
+                    "name": "E2E1E1",
+                    "hex": "#E2E1E1"
+                },
+                {
+                    "name": "D5D2D2",
+                    "hex": "#D5D2D2"
+                },
+                {
+                    "name": "C7C3C3",
+                    "hex": "#C7C3C3"
+                }
+            ]
+        },
+        {
+            "name": "Light Font",
+            "inline": true,
+            "row": true,
+            "colors": [
+                {
+                    "name": "000000",
+                    "hex": "#000000"
+                },
+                {
+                    "name": "101010",
+                    "hex": "#101010"
+                },
+                {
+                    "name": "202020",
+                    "hex": "#202020"
+                }
+            ]
+        },
+        {
+            "name": "Accent",
+            "inline": false,
+            "row": false,
+            "colors": [
+                {
+                    "name": "0099FF",
+                    "hex": "#0099FF"
+                },
+                {
+                    "name": "007FD3",
+                    "hex": "#007FD3"
+                }
+            ]
+        }
+    ]
+}
