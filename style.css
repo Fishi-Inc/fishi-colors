@@ -181,3 +181,9 @@ body, html {
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-right: none;
 }
+
+#no {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+}
